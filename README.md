@@ -1,1 +1,1 @@
-# AcademicSchedulingProblem
+# Academic Scheduling Problem
