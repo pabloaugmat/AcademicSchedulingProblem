@@ -1,0 +1,35 @@
+graph {
+	prof1 [label="prof. 1"]
+	prof2 [label="prof. 2"]
+	prof3 [label="prof. 3"]
+	profN [label="prof. ...N"]
+	siglaU [label="SIGLA[CURSO][PER.]"]
+	siglaV [label="SIGLA[CURSO][PER.]"]
+	siglaW [label="SIGLA[CURSO][PER.]"]
+	siglaX [label="SIGLA[CURSO][PER.]"]
+	siglaY [label="SIGLA[CURSO][PER.]"]
+	siglaZ [label="SIGLA[CURSO][PER.]"]
+	prof1 -- siglaV
+	prof1 -- siglaV
+	prof1 -- siglaV
+	prof1 -- siglaV
+	prof1 -- siglaW
+	prof1 -- siglaW
+	prof1 -- siglaW
+	prof1 -- siglaW
+	prof2 -- siglaU
+	prof2 -- siglaU
+	prof2 -- siglaU
+	prof2 -- siglaU
+	prof3 -- siglaX
+	prof3 -- siglaX
+	prof3 -- siglaX
+	prof3 -- siglaY
+	prof3 -- siglaY
+	profN -- siglaZ
+	profN -- siglaZ
+	profN -- siglaZ
+	profN -- siglaZ
+	profN -- siglaY
+	profN -- siglaY
+}
